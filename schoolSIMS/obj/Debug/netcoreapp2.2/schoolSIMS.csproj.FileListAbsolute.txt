@@ -1,0 +1,15 @@
+C:\Users\Aspire2 Student\source\repos\schoolSIMS\schoolSIMS\bin\Debug\netcoreapp2.2\schoolSIMS.deps.json
+C:\Users\Aspire2 Student\source\repos\schoolSIMS\schoolSIMS\bin\Debug\netcoreapp2.2\schoolSIMS.runtimeconfig.json
+C:\Users\Aspire2 Student\source\repos\schoolSIMS\schoolSIMS\bin\Debug\netcoreapp2.2\schoolSIMS.runtimeconfig.dev.json
+C:\Users\Aspire2 Student\source\repos\schoolSIMS\schoolSIMS\bin\Debug\netcoreapp2.2\schoolSIMS.dll
+C:\Users\Aspire2 Student\source\repos\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.csprojAssemblyReference.cache
+C:\Users\Aspire2 Student\source\repos\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.csproj.CoreCompileInputs.cache
+C:\Users\Aspire2 Student\source\repos\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.RazorAssemblyInfo.cache
+C:\Users\Aspire2 Student\source\repos\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.RazorAssemblyInfo.cs
+C:\Users\Aspire2 Student\source\repos\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.AssemblyInfoInputs.cache
+C:\Users\Aspire2 Student\source\repos\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.AssemblyInfo.cs
+C:\Users\Aspire2 Student\source\repos\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.RazorTargetAssemblyInfo.cache
+C:\Users\Aspire2 Student\source\repos\schoolSIMS\schoolSIMS\bin\Debug\netcoreapp2.2\schoolSIMS.pdb
+C:\Users\Aspire2 Student\source\repos\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.dll
+C:\Users\Aspire2 Student\source\repos\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.pdb
+C:\Users\Aspire2 Student\source\repos\schoolSIMS\schoolSIMS\bin\Debug\netcoreapp2.2\Startup.cs
